@@ -1,0 +1,21 @@
+Ticket_ID,Date,Category,Submitted_By,Assigned_To,Handle_Minutes,Status,Automation_Action,Estimated_After_Minutes,Estimated_Minutes_Saved
+TCK-1001,2026-01-02,Thumbnail re-upload,creator_avaloncreates,Ops Support,25,Closed,AUTO_RESOLVE,5,20
+TCK-1002,2026-01-02,Tax form (W-9/W-8),creator_brightpixel,Ops Support,50,Closed,HUMAN_REVIEW,50,0
+TCK-1003,2026-01-03,Login issue,creator_chartedwaters,Ops Support,15,Closed,AUTO_RESOLVE,3,12
+TCK-1004,2026-01-03,Thumbnail re-upload,creator_dunemotion,Ops Support,20,Closed,AUTO_RESOLVE,5,15
+TCK-1005,2026-01-05,Payout question,creator_emberlite,Ops Support,55,Closed,HUMAN_REVIEW,55,0
+TCK-1006,2026-01-05,Tax form (W-9/W-8),creator_foxglovestudio,Ops Support,45,Closed,HUMAN_REVIEW,45,0
+TCK-1007,2026-01-06,Thumbnail re-upload,creator_glasscanyon,Ops Support,25,Closed,AUTO_RESOLVE,5,20
+TCK-1008,2026-01-06,Thumbnail re-upload,creator_harborlight,Ops Support,20,Closed,AUTO_RESOLVE,5,15
+TCK-1009,2026-01-07,Tax form (W-9/W-8),creator_ivoryreef,Ops Support,45,Closed,HUMAN_REVIEW,45,0
+TCK-1010,2026-01-07,Login issue,creator_junipertrail,Ops Support,10,Closed,AUTO_RESOLVE,3,7
+TCK-1011,2026-01-08,Thumbnail re-upload,creator_kelpforest,Ops Support,25,Closed,AUTO_RESOLVE,5,20
+TCK-1012,2026-01-08,Payout question,creator_lanternbay,Ops Support,50,Closed,HUMAN_REVIEW,50,0
+TCK-1013,2026-01-09,Tax form (W-9/W-8),creator_moonlitpath,,45,Closed,HUMAN_REVIEW,45,0
+TCK-1014,2026-01-09,Thumbnail re-upload,creator_northstarvideo,Ops Support,20,Closed,AUTO_RESOLVE,5,15
+TCK-1015,2026-01-12,Thumbnail re-upload,creator_oakhollow,Ops Support,25,Closed,AUTO_RESOLVE,5,20
+TCK-1016,2026-01-12,Account access,creator_pinegrove,Ops Support,25,Closed,AUTO_RESOLVE,5,20
+TCK-1017,2026-01-13,Tax form (W-9/W-8),creator_quietharbor,Ops Support,40,Closed,HUMAN_REVIEW,40,0
+TCK-1018,2026-01-13,Thumbnail re-upload,creator_riverstone,Ops Support,20,Closed,AUTO_RESOLVE,5,15
+TCK-1019,2026-01-14,Payout question,creator_silvercrest,Ops Support,45,Closed,HUMAN_REVIEW,45,0
+TCK-1020,2026-01-14,Thumbnail re-upload,creator_tidalwave,Ops Support,25,Closed,AUTO_RESOLVE,5,20

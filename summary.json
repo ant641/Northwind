@@ -1,0 +1,9 @@
+{
+  "tickets": 20,
+  "baseline_minutes": 630,
+  "after_minutes": 431,
+  "minutes_saved": 199,
+  "reduction_pct": 31.6,
+  "assumption": "After-times are explicit pilot assumptions, not observed production times.",
+  "source": "support_tickets_q1_2026.csv rows; columns Ticket_ID, Category, Handle_Minutes, Status"
+}
